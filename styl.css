@@ -1,0 +1,16 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: ;
+}
+div{
+    text-align: center;
+    color: rgb(56, 50, 107);
+    height: 100px;
+    width: 10%;
+    border: 2px solid rgb(241, 11, 11);
+}
+.d:hover{
+    color:rgb(2, 104, 107);
+    border: 2px solid black;
+}
